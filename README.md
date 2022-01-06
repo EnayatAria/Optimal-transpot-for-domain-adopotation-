@@ -10,12 +10,12 @@ I used the inverse transformation in this code: i.e. target data is mapped into 
 
 Input:
 
-    - source image dataset in envi format
-    - target image dataset in envi format
-    - training samples of the classes of source dataset
+   - source image dataset in envi format
+   - target image dataset in envi format
+   - training samples of the classes of source dataset
     
     
 Output:
 
-    - four transformed image sets using  four OT functions in envi format
-    - Plot of the point distributions of the source and target data and the transformed target images
+   - four transformed image sets using  four OT functions in envi format
+   - Plot of the point distributions of the source and target data and the transformed target images
