@@ -20,4 +20,4 @@ Output:
    - four transformed image sets using  four OT functions in envi format
    - Plot of the point distributions of the source and target data and the transformed target images
 
-A sample plot as the output of the plot  output of the code is uploaded: tf_plot_best 
+A sample plot as the output of the plot  output of the code is uploaded: tf_plot_best.jpeg 
